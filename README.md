@@ -1,0 +1,1 @@
+# node-exif-sorter
